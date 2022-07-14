@@ -6,7 +6,7 @@ class bob
 			isStatic:false,
 			restitution:1,
 			friction:0,
-			density:0.8
+			density:0.5
 			
 			}
 		this.x=x;
@@ -34,4 +34,3 @@ class bob
 	}
 
 }
-
